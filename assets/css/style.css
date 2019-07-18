@@ -1,0 +1,19 @@
+
+
+header {
+    width: 100%;
+    height: 50px;
+}
+h1 {
+    color: #4aaaa5;
+    width: 300px;
+}
+
+h2{
+    color: white;
+    background: #4aaaa5;
+    width: 120px;
+    height: 50px;
+    text-size-adjust: 40;
+    text-align: center;
+}
