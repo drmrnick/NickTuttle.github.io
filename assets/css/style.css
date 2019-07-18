@@ -1,19 +1,22 @@
 
 
 header {
-    width: 100%;
+    width: 160px;
     height: 50px;
+    font-size: 35px;
+    background: #4aaaa5;
+    margin: 0px;
+    color: white;
 }
 h1 {
     color: #4aaaa5;
     width: 300px;
 }
 
-h2{
-    color: white;
-    background: #4aaaa5;
-    width: 120px;
-    height: 50px;
-    text-size-adjust: 40;
-    text-align: center;
+.topnav{
+    color: rgb(163, 163, 163);
+    overflow: hidden;
+    float: right;
+    font-size: 20px;
+    padding: 8px;
 }
